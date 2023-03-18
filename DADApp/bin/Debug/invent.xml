@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory>
+  <Profile ProfileName="Имя2">
+    <InventoryObj Name="1">
+      <Count>0</Count>
+      <WeightOne>0</WeightOne>
+      <Category>Безделушка</Category>
+      <Discription>-</Discription>
+    </InventoryObj>
+    <InventoryObj Name="2">
+      <Count>1</Count>
+      <WeightOne>4,41</WeightOne>
+      <Category>Безделушка</Category>
+      <Discription>-</Discription>
+    </InventoryObj>
+    <InventoryObj Name="3">
+      <Count>0</Count>
+      <WeightOne>0</WeightOne>
+      <Category>Безделушка</Category>
+      <Discription>-</Discription>
+    </InventoryObj>
+    <InventoryObj Name="4">
+      <Count>2</Count>
+      <WeightOne>0</WeightOne>
+      <Category>Безделушка</Category>
+      <Discription>-</Discription>
+    </InventoryObj>
+    <Coins>
+      <Platina>0</Platina>
+      <Gold>0</Gold>
+      <Electrum>0</Electrum>
+      <Silver>0</Silver>
+      <Сopper>0</Сopper>
+    </Coins>
+    <Weight>
+      <Strenght>0</Strenght>
+      <Size>Средний-Маленький</Size>
+    </Weight>
+  </Profile>
+</Inventory>

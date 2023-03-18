@@ -1,0 +1,5 @@
+enable_hard_wight=True
+enable_kg=False
+enable_coins=True
+enable_iron_back=False
+isFirstStart=false

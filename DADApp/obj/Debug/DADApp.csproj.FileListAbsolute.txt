@@ -1,0 +1,17 @@
+C:\Users\Fidele\source\repos\DADApp\DADApp\bin\Debug\DADApp.exe.config
+C:\Users\Fidele\source\repos\DADApp\DADApp\bin\Debug\DADApp.exe
+C:\Users\Fidele\source\repos\DADApp\DADApp\bin\Debug\DADApp.pdb
+C:\Users\Fidele\source\repos\DADApp\DADApp\obj\Debug\DADApp.csproj.AssemblyReference.cache
+C:\Users\Fidele\source\repos\DADApp\DADApp\obj\Debug\DADApp.Form1.resources
+C:\Users\Fidele\source\repos\DADApp\DADApp\obj\Debug\DADApp.Properties.Resources.resources
+C:\Users\Fidele\source\repos\DADApp\DADApp\obj\Debug\DADApp.csproj.GenerateResource.cache
+C:\Users\Fidele\source\repos\DADApp\DADApp\obj\Debug\DADApp.csproj.CoreCompileInputs.cache
+C:\Users\Fidele\source\repos\DADApp\DADApp\obj\Debug\DADApp.exe
+C:\Users\Fidele\source\repos\DADApp\DADApp\obj\Debug\DADApp.pdb
+C:\Users\Fidele\source\repos\DADApp\DADApp\obj\Debug\DADApp.Инвентарь.resources
+C:\Users\Fidele\source\repos\DADApp\DADApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fidele\source\repos\DADApp\DADApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fidele\source\repos\DADApp\DADApp\obj\Debug\DADApp.csproj.CopyComplete
+C:\Users\Fidele\source\repos\DADApp\DADApp\obj\Debug\DADApp.updater.Updater.resources
+C:\Users\Fidele\source\repos\DADApp\DADApp\obj\Debug\DADApp.best.Best.resources
+C:\Users\Fidele\source\repos\DADApp\DADApp\obj\Debug\DADApp.inventory.tabTextBox.TabTextBoxForm.resources

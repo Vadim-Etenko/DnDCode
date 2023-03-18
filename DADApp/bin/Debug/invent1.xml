@@ -1,0 +1,83 @@
+<Inventory>
+  <Profile ProfileName="Фидель Хуфф">
+    <InventoryObj Name="zxc">
+      <Count>1</Count>
+      <WeightOne>23</WeightOne>
+      <Category>Безделушка</Category>
+      <Discription>-</Discription>
+    </InventoryObj>
+    <InventoryObj Name="qweq">
+      <Count>1</Count>
+      <WeightOne>23</WeightOne>
+      <Category>Безделушка</Category>
+      <Discription>-</Discription>
+    </InventoryObj>
+    <InventoryObj Name="-ter">
+      <Count>2</Count>
+      <WeightOne>2</WeightOne>
+      <Category>Безделушка</Category>
+      <Discription>-</Discription>
+    </InventoryObj>
+    <Coins>
+      <Platina>20</Platina>
+      <Gold>0</Gold>
+      <Electrum>0</Electrum>
+      <Silver>0</Silver>
+      <Сopper>0</Сopper>
+    </Coins>
+  </Profile>
+  <Profile ProfileName="Техно Жрец">
+    <InventoryObj Name="qwe">
+      <Count>11</Count>
+      <WeightOne>0</WeightOne>
+      <Category>Безделушка</Category>
+      <Discription>-</Discription>
+    </InventoryObj>
+    <InventoryObj Name="-">
+      <Count>0</Count>
+      <WeightOne>2</WeightOne>
+      <Category>Безделушка</Category>
+      <Discription>-</Discription>
+    </InventoryObj>
+    <Coins>
+      <Platina>0</Platina>
+      <Gold>18</Gold>
+      <Electrum>0</Electrum>
+      <Silver>0</Silver>
+      <Сopper>0</Сopper>
+    </Coins>
+  </Profile>
+  <Profile ProfileName="Илья">
+    <InventoryObj Name="йцуй">
+      <Count>1</Count>
+      <WeightOne>2</WeightOne>
+      <Category>Безделушка</Category>
+      <Discription>-</Discription>
+    </InventoryObj>
+    <Coins>
+      <Platina>0</Platina>
+      <Gold>0</Gold>
+      <Electrum>32</Electrum>
+      <Silver>0</Silver>
+      <Сopper>0</Сopper>
+    </Coins>
+  </Profile>
+  <Profile ProfileName="Имя23">
+    <Coins>
+      <Platina>0</Platina>
+      <Gold>0</Gold>
+      <Electrum>0</Electrum>
+      <Silver>1234</Silver>
+      <Сopper>0</Сopper>
+    </Coins>
+  </Profile>
+  <Profile ProfileName="Имя">
+    <Coins>
+      <Platina>0</Platina>
+      <Gold>0</Gold>
+      <Electrum>0</Electrum>
+      <Silver>0</Silver>
+      <Сopper>0</Сopper>
+    </Coins>
+  </Profile>
+</Inventory>
